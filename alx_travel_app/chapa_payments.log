@@ -1,0 +1,260 @@
+INFO 2025-10-14 16:07:46,451 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:10:33,498 django.utils.autoreload C:\Week_8\alx_travel_app\listings\admin.py changed, reloading.
+INFO 2025-10-14 16:10:35,663 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:10:39,786 django.utils.autoreload C:\Week_8\alx_travel_app\listings\admin.py changed, reloading.
+INFO 2025-10-14 16:10:41,277 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:11:24,893 django.utils.autoreload C:\Week_8\alx_travel_app\listings\serializers.py changed, reloading.
+INFO 2025-10-14 16:11:26,275 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:32:36,699 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:32:40,010 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:37:27,065 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:37:29,717 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:07,476 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:08,662 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:15,423 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:16,293 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:18,833 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:19,733 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:21,281 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:22,393 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:28,173 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:29,022 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:41,441 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:42,425 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:44,240 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:38:45,198 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:38:59,910 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:39:00,831 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:39:03,564 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:39:04,442 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:41:53,805 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:41:54,981 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:42:08,561 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:42:09,503 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:01,504 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:02,457 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:18,888 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:19,914 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:22,575 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:23,475 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:35,978 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:36,890 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:39,714 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:40,687 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:43,472 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:44,366 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:43:58,963 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:43:59,789 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:44:51,605 django.utils.autoreload C:\Week_8\alx_travel_app\listings\admin.py changed, reloading.
+INFO 2025-10-14 16:44:52,620 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:45:12,453 django.utils.autoreload C:\Week_8\alx_travel_app\listings\admin.py changed, reloading.
+INFO 2025-10-14 16:45:13,428 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:45:52,242 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:49:38,315 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:49:39,509 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:49:48,936 django.utils.autoreload C:\Week_8\alx_travel_app\listings\views.py changed, reloading.
+INFO 2025-10-14 16:49:49,724 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:50:26,692 django.utils.autoreload C:\Week_8\alx_travel_app\listings\urls.py changed, reloading.
+INFO 2025-10-14 16:50:27,636 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:50:29,202 django.utils.autoreload C:\Week_8\alx_travel_app\listings\urls.py changed, reloading.
+INFO 2025-10-14 16:50:30,004 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-10-14 16:50:55,618 django.utils.autoreload C:\Week_8\alx_travel_app\listings\urls.py changed, reloading.
+INFO 2025-10-14 16:50:57,832 django.utils.autoreload Watching for file changes with StatReloader
+ERROR 2025-10-29 17:21:40,375 celery.utils.dispatch.signal Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x0000024D7563AF90>> raised: ModuleNotFoundError("No module named 'django_extensions'")
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\utils\dispatch\signal.py", line 280, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 101, in on_import_modules
+    self.worker_fixup.validate_models()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 139, in validate_models
+    self.django_setup()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 135, in django_setup
+    django.setup()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+    ~~~~~~~~~~~~~^^^^^^^
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django_extensions'
+ERROR 2025-10-29 17:21:40,394 celery.utils.dispatch.signal Signal handler <promise@0x24d756884b0 --> <bound method Celery._autodiscover_tasks of <Celery alx_travel_app at 0x24d7563a660>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\utils\dispatch\signal.py", line 280, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+           ~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\app\base.py", line 788, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\app\base.py", line 800, in _autodiscover_tasks_from_fixups
+    for pkg in fixup.autodiscover_tasks()
+               ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 111, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+                                      ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+ERROR 2025-10-29 17:22:12,136 celery.utils.dispatch.signal Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x0000022C5A966F90>> raised: ModuleNotFoundError("No module named 'django_celery_results'")
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\utils\dispatch\signal.py", line 280, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 101, in on_import_modules
+    self.worker_fixup.validate_models()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 139, in validate_models
+    self.django_setup()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 135, in django_setup
+    django.setup()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+    ~~~~~~~~~~~~~^^^^^^^
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'django_celery_results'
+ERROR 2025-10-29 17:22:12,149 celery.utils.dispatch.signal Signal handler <promise@0x22c5a9b84b0 --> <bound method Celery._autodiscover_tasks of <Celery alx_travel_app at 0x22c5a966660>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\utils\dispatch\signal.py", line 280, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+           ~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\app\base.py", line 788, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\app\base.py", line 800, in _autodiscover_tasks_from_fixups
+    for pkg in fixup.autodiscover_tasks()
+               ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 111, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+                                      ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+ERROR 2025-10-29 17:24:19,982 celery.utils.dispatch.signal Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000001A3A023AF90>> raised: ModuleNotFoundError("No module named 'requests'")
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\core\checks\urls.py", line 136, in check_custom_error_handlers
+    handler = resolver.resolve_error_handler(status_code)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\urls\resolvers.py", line 732, in resolve_error_handler
+    callback = getattr(self.urlconf_module, "handler%s" % view_type, None)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\urls\resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\urls.py", line 40, in <module>
+    path('api/', include('listings.urls')),
+                 ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\urls\conf.py", line 39, in include
+    urlconf_module = import_module(urlconf_module)
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\listings\urls.py", line 3, in <module>
+    from .views import (CustomUserViewSet,
+    ...<6 lines>...
+                        )
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\listings\views.py", line 6, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\utils\dispatch\signal.py", line 280, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 101, in on_import_modules
+    self.worker_fixup.validate_models()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\celery\fixups\django.py", line 141, in validate_models
+    run_checks()
+    ~~~~~~~~~~^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\core\checks\registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\core\checks\urls.py", line 138, in check_custom_error_handlers
+    path = getattr(resolver.urlconf_module, "handler%s" % status_code)
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\urls\resolvers.py", line 711, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\urls.py", line 40, in <module>
+    path('api/', include('listings.urls')),
+                 ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\alx_travel_app_0x03\env\Lib\site-packages\django\urls\conf.py", line 39, in include
+    urlconf_module = import_module(urlconf_module)
+  File "C:\Program Files\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\listings\urls.py", line 3, in <module>
+    from .views import (CustomUserViewSet,
+    ...<6 lines>...
+                        )
+  File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\listings\views.py", line 6, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'

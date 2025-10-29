@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; color: #333; }
+        .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+        .header { background-color: #4CAF50; color: white; padding: 20px; text-align: center; }
+        .content { padding: 20px; border: 1px solid #ddd; }
+        .footer { text-align: center; padding: 20px; color: #666; font-size: 12px; }
+        .detail-row { margin: 10px 0; }
+        .label { font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Booking Confirmation</h1>
+        </div>
+        
+        <div class="content">
+            <p>Dear {{ guest_name }},</p>
+            
+            <p>Your booking has been confirmed! Here are the details:</p>
+            
+            <div class="detail-row">
+                <span class="label">Booking ID:</span> #{{ booking_id }}
+            </div>
+            
+            <div class="detail-row">
+                <span class="label">Property:</span> {{ listing_title }}
+            </div>
+            
+            <div class="detail-row">
+                <span class="label">Check-in Date:</span> {{ check_in_date|date:"F d, Y" }}
+            </div>
+            
+            <div class="detail-row">
+                <span class="label">Check-out Date:</span> {{ check_out_date|date:"F d, Y" }}
+            </div>
+            
+            <div class="detail-row">
+                <span class="label">Number of Nights:</span> {{ number_of_nights }}
+            </div>
+            
+            <div class="detail-row">
+                <span class="label">Total Price:</span> ${{ total_price }}
+            </div>
+            
+            <p style="margin-top: 30px;">Thank you for booking with us! If you have any questions, please don't hesitate to contact us.</p>
+            
+            <p>Best regards,<br>The ALX Travel App Team</p>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2025 ALX Travel App. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
