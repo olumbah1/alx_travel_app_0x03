@@ -150,7 +150,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
-STATICFILES_DIRS = [BASE_DIR / 'static']
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 # Default primary key field type
@@ -202,14 +201,6 @@ CELERY_TIMEZONE = 'UTC'
 CELERY_TASK_TRACK_STARTED = True
 CELERY_TASK_TIME_LIMIT = 30 * 60  # 30 minutes
 
-# Email Configuration
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'adeoyeolumide97@gmail.com'  # Update with your email
-EMAIL_HOST_PASSWORD = 'mide1997'  # Use app-specific password
-DEFAULT_FROM_EMAIL = 'adeoyeolumide97@gmail.com'
 
 # For testing (console backend - emails print to terminal)
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
