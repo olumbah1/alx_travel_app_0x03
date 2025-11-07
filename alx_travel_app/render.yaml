@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: alx-travel-app
+    name: alx_travel_app
     env: python
     plan: free
     buildCommand: chmod +x build.sh && ./build.sh
