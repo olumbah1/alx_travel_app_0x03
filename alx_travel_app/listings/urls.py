@@ -11,8 +11,8 @@ from .views import (CustomUserViewSet,
 
 router = routers.DefaultRouter()
 router.register(r'user', CustomUserViewSet),
-router.register(r'listing', ListingViewSet),
-router.register(r'booking', BookingViewSet),
+router.register(r'listings', ListingViewSet, basename='listing'),
+router.register(r'bookings', BookingViewSet, basename='booking'),
 router.register(r'review', ReviewViewSet)
 
 

@@ -258,3 +258,53 @@ Traceback (most recent call last):
   File "C:\Users\USER\alx_travel_app_0x03\alx_travel_app\listings\views.py", line 6, in <module>
     import requests
 ModuleNotFoundError: No module named 'requests'
+INFO 2025-11-06 23:44:26,903 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:48:48,294 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:51:52,567 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-06 23:52:34,742 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:53:48,761 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-06 23:53:50,920 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:55:25,792 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:57:16,397 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-06 23:57:17,632 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-06 23:57:20,648 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:09:25,441 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:11:24,911 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:16:11,753 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:18:01,872 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:19:24,805 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:19:26,037 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:19:31,445 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:19:32,644 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:19:36,811 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:19:37,952 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:21:05,825 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:21:07,381 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:21:14,892 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:21:16,033 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:21:48,897 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:22:31,099 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:22:51,888 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:22:53,024 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:22:56,109 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:22:57,204 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:23:12,389 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:23:13,592 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:23:45,894 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:23:47,382 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-11-07 00:24:13,340 django.utils.autoreload Watching for file changes with StatReloader
+WARNING 2025-11-07 00:24:16,891 django.request Not Found: /
+WARNING 2025-11-07 00:24:18,193 django.request Not Found: /favicon.ico
+WARNING 2025-11-07 00:33:35,044 django.request Not Found: /doc/
+WARNING 2025-11-07 00:33:52,112 django.request Not Found: /api/schema/redoc/
+WARNING 2025-11-07 00:34:13,399 django.request Not Found: /api/redoc/
+INFO 2025-11-07 00:48:43,049 django.utils.autoreload C:\Users\USER\alx_travel_app_0x03\alx_travel_app\alx_travel_app\settings.py changed, reloading.
+INFO 2025-11-07 00:48:45,956 django.utils.autoreload Watching for file changes with StatReloader
+WARNING 2025-11-07 01:04:03,656 django.request Not Found: /api/bookings/
+WARNING 2025-11-07 01:04:05,429 django.request Not Found: /api/bookings/
+WARNING 2025-11-07 01:04:07,163 django.request Not Found: /api/bookings/
+WARNING 2025-11-07 01:08:43,172 django.request Bad Request: /api/bookings/
+WARNING 2025-11-07 01:08:46,543 django.request Unauthorized: /api/bookings/
+WARNING 2025-11-07 01:12:02,557 django.request Bad Request: /api/bookings/
+WARNING 2025-11-07 01:12:06,183 django.request Unauthorized: /api/bookings/
+WARNING 2025-11-07 01:14:44,997 django.request Unauthorized: /api/bookings/
