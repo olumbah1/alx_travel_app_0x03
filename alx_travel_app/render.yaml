@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: alx-travel-app
+    env: python
+    plan: free
+    buildCommand: chmod +x build.sh && ./build.sh
+    startCommand: gunicorn alx_travel_app.wsgi:application
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12
+      - key: DEBUG
+        value: "False"
+      - key: SECRET_KEY
+        generateValue: true

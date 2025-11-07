@@ -247,10 +247,10 @@ REST_FRAMEWORK = {
 }
 
 # Security settings
-CSRF_TRUSTED_ORIGINS = ['https://16.16.195.112','http://localhost:8001', 'http://127.0.0.1:8001']
-SECURE_SSL_REDIRECT = True
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
+CSRF_TRUSTED_ORIGINS = ['https://yourdomain.onrender.com','http://localhost:8001', 'http://127.0.0.1:8001']
+SECURE_SSL_REDIRECT = os.getenv('SECURE_SSL_REDIRECT', 'False') == 'True'
+SESSION_COOKIE_SECURE = os.getenv('SESSION_COOKIE_SECURE', 'False') == 'True'
+CSRF_COOKIE_SECURE = os.getenv('CSRF_COOKIE_SECURE', 'False') == 'True'
 SECURE_BROWSER_XSS_FILTER = True
 SECURE_CONTENT_SECURITY_POLICY = {
     'default-src': ("'self'",),
