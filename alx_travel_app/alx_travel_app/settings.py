@@ -30,7 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 DEBUG=os.getenv('DEBUG')
 SECRET_KEY = os.getenv('SECRET_KEY')
-ALLOWED_HOSTS =os.getenv('ALLOWED_HOSTS', default='localhost,127.0.0.1').split(',')
+ALLOWED_HOSTS =os.getenv('ALLOWED_HOSTS', default='travel-app-qvxz.onrender.com,localhost,127.0.0.1').split(',')
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
