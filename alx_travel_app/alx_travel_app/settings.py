@@ -150,7 +150,7 @@ SPECTACULAR_SETTINGS = {
         'name': 'MIT',
     },
     'SERVERS': [
-        {'url': 'https://16.16.195.112', 'description': 'Production'},
+        {'url': 'https://alx_travel_app.onrender.com', 'description': 'Production'},
         {'url': 'http://localhost:8001', 'description': 'Development'},
     ],
 }
@@ -247,7 +247,7 @@ REST_FRAMEWORK = {
 }
 
 # Security settings
-CSRF_TRUSTED_ORIGINS = ['https://yourdomain.onrender.com','http://localhost:8001', 'http://127.0.0.1:8001']
+CSRF_TRUSTED_ORIGINS = ['https://alx_travel_app.onrender.com','http://localhost:8001', 'http://127.0.0.1:8001']
 SECURE_SSL_REDIRECT = os.getenv('SECURE_SSL_REDIRECT', 'False') == 'True'
 SESSION_COOKIE_SECURE = os.getenv('SESSION_COOKIE_SECURE', 'False') == 'True'
 CSRF_COOKIE_SECURE = os.getenv('CSRF_COOKIE_SECURE', 'False') == 'True'
